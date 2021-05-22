@@ -21,7 +21,7 @@ sections:
       background_color: blue
       background_image: images/103415204_3058766594203155_3155016059337296175_n.jpg
       background_image_opacity: 0
-      background_image_size: contain
+      background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
     title: Features
