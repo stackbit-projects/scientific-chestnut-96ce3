@@ -16,7 +16,7 @@ sections:
     align: center
     image_alt: Hero placeholder image
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: blue
       background_image: images/103415204_3058766594203155_3155016059337296175_n.jpg
